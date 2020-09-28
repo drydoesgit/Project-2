@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: created people page">
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: uploaded images to people page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webpages/internetsearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/internetsearch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Webpages/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/people.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601327923350</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task: uploaded images to people page">
+      <created>1601331703963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601331703965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +146,8 @@
     <MESSAGE value="Feature: updated index.html file" />
     <MESSAGE value="Feature: created about page" />
     <MESSAGE value="Feature: created people page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: created people page" />
+    <MESSAGE value="Task: uploaded images to people page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: uploaded images to people page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
@@ -151,10 +158,10 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="102" y="67" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1601318117711" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601327930542">
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601331714180">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601327930542" />
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601331714180" />
     <state x="362" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601318141665">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
