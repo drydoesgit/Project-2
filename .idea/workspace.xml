@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: updated about page content">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_28_20__2_35_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_28_20__2_35_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +68,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Contrast_418D\WebstormProjects\Project-2\image" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/Webpages" />
     </key>
@@ -80,6 +82,10 @@
       <option name="presentableId" value="Default" />
       <updated>1601307672568</updated>
       <workItem from="1601307673939" duration="5811000" />
+      <workItem from="1601334735803" duration="446000" />
+      <workItem from="1601335330446" duration="35000" />
+      <workItem from="1601335918801" duration="343000" />
+      <workItem from="1601336317512" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: updated index.html file">
       <created>1601307748651</created>
