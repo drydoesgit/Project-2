@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: updated about page content">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_28_20__2_35_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_28_20__2_35_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
       <workItem from="1601334735803" duration="446000" />
       <workItem from="1601335330446" duration="35000" />
       <workItem from="1601335918801" duration="343000" />
-      <workItem from="1601336317512" duration="747000" />
+      <workItem from="1601336317512" duration="862000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: updated index.html file">
       <created>1601307748651</created>
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601333861433</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Feature: Invention of Internet">
+      <created>1601337156649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601337156649</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,20 +172,26 @@
     <MESSAGE value="Task: uploaded images to people page" />
     <MESSAGE value="Feature: Created dot.com bubble page" />
     <MESSAGE value="Task: updated about page content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: updated about page content" />
+    <MESSAGE value="Feature: Invention of Internet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Invention of Internet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.749@0.23.1280.749" timestamp="1601311568887" />
+    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1601337155104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601337155104" />
     <state x="102" y="67" key="MergeDialog" timestamp="1601318117711">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="102" y="67" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1601318117711" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601333869662">
-      <screen x="0" y="23" width="1280" height="749" />
+    <state x="189" y="105" key="Vcs.Push.Dialog.v2" timestamp="1601337173883">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="189" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601337173883" />
     <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601333869662" />
     <state x="362" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601318141665">
       <screen x="0" y="23" width="1280" height="749" />
