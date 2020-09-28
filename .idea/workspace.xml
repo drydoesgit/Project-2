@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: uploaded images to people page">
-      <change beforePath="$PROJECT_DIR$/Webpages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/index.html" afterDir="false" />
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: updated about page content">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601331703965</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feature: Created dot.com bubble page">
+      <created>1601333658774</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601333658774</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task: updated about page content">
+      <created>1601333861433</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601333861433</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +160,9 @@
     <MESSAGE value="Feature: created about page" />
     <MESSAGE value="Feature: created people page" />
     <MESSAGE value="Task: uploaded images to people page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: uploaded images to people page" />
+    <MESSAGE value="Feature: Created dot.com bubble page" />
+    <MESSAGE value="Task: updated about page content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: updated about page content" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
@@ -157,10 +173,10 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="102" y="67" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1601318117711" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601331714180">
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601333869662">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601331714180" />
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601333869662" />
     <state x="362" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601318141665">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
