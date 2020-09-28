@@ -9,22 +9,58 @@
 </head>
 
 <style>
+
+    body{
+        background-color: silver;
+    }
     .container{
         padding: 60px;
         text-align: center;
-        background: forestgreen;
+        background: black;
         color: white;
         font-size: 30px;
     }
+
+    .column {
+        float: left;
+        width: 50%;
+
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+
+
 </style>
 
 <body>
 
 <div class="container">
-    <div class="centered"> <strong>History of the Internet: Internet Search</strong></div>
+    <div class="centered"> <strong>History of the Internet</strong></div>
 </div>
 
-<h1>Hello, world!</h1>
+<h1 style="text-align: center">Internet Search part 2</h1>
+
+<div class="row">
+    <div class="column"> The history of the internet: Internet search part 2 video documents how in the mid-to-late 1990’s,
+        newly created internet companies such as Yahoo and Excite were the leading webpages for users. Early versions of
+        these webpages were essentially directory navigation repositories that were manually configured by engineers.
+        At these early stages, the issue with Internet Search for companies was in finding a way to monetize the directory
+        functions without plastering web pages full of banner-ads, as such tactics often led to unfavorable user experiences.
+        It wasn't until Larry Page and Sergey Brim started the google search engine- a search page that ranked output displays
+        based on a numeric value ranking of the most frequently viewed pages, or as described by Page himself:
+        “in essence google interprets a link from page A to B as a vote b page A for page B,” that the data of what users where actually
+        ‘searching’ for began to be seen as valuable insight into the preferences of consumers and therefore,
+        a valuable asset for marketing and advertising companies  </div>
+    <div class="column"></div>
+    <div class="column"></div>
+</div>
+
+
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
