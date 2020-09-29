@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test of img3">
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test of img4">
       <change beforePath="$PROJECT_DIR$/docs/teampage.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/teampage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/Dryden.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/image/Dryden.JPEG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601419197275</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Feature: test of img4">
+      <created>1601419466941</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601419466941</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +269,8 @@
     <MESSAGE value="Feature: test of img" />
     <MESSAGE value="Feature: test of img2" />
     <MESSAGE value="Feature: test of img3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: test of img3" />
+    <MESSAGE value="Feature: test of img4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: test of img4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
