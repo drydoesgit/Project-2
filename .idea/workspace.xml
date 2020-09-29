@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="">
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: added images to image folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webpages/teampage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/teampage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webpages/internetsearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/internetsearch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +68,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Contrast_418D\WebstormProjects\Project-2\image" />
       <recent name="$PROJECT_DIR$/image" />
+      <recent name="C:\Users\Contrast_418D\WebstormProjects\Project-2\image" />
       <recent name="$PROJECT_DIR$/Webpages" />
     </key>
   </component>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601379546297</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task: added images to image folder">
+      <created>1601380171975</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601380171975</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +217,8 @@
     <MESSAGE value="Task: Computer Image" />
     <MESSAGE value="Bug: Link Invention of the Internet Page" />
     <MESSAGE value="Feature: Team page branch added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Team page branch added" />
+    <MESSAGE value="Task: added images to image folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added images to image folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
@@ -225,11 +233,11 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="102" y="67" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1601318117711" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601379553587">
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601380182188">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="189" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601338002615" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601379553587" />
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601380182188" />
     <state x="362" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601318141665">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
