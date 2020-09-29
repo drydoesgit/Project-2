@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test of img5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test of img7">
       <change beforePath="$PROJECT_DIR$/docs/teampage.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/teampage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601419733327</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Feature: test of img6">
+      <created>1601420070130</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601420070130</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Feature: test of img7">
+      <created>1601420341385</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601420341385</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +291,9 @@
     <MESSAGE value="Feature: test of img3" />
     <MESSAGE value="Feature: test of img4" />
     <MESSAGE value="Feature: test of img5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: test of img5" />
+    <MESSAGE value="Feature: test of img6" />
+    <MESSAGE value="Feature: test of img7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: test of img7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
@@ -298,11 +313,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601401120972" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601419739760">
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601420347941">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="189" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601416415513" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601419739760" />
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601420347941" />
     <state x="322" y="23" width="604" height="735" key="find.popup" timestamp="1601418950279">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
