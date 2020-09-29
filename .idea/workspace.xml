@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test of img4">
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test of img5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/teampage.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/teampage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/Dryden.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/image/Dryden.JPEG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601419466941</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Feature: test of img5">
+      <created>1601419733327</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601419733327</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +277,8 @@
     <MESSAGE value="Feature: test of img2" />
     <MESSAGE value="Feature: test of img3" />
     <MESSAGE value="Feature: test of img4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: test of img4" />
+    <MESSAGE value="Feature: test of img5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: test of img5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
@@ -290,11 +298,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601401120972" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601419204348">
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601419739760">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="189" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601416415513" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601419204347" />
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601419739760" />
     <state x="322" y="23" width="604" height="735" key="find.popup" timestamp="1601418950279">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
