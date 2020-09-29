@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webpages/Invention_of_Internet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Invention_of_Internet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,25 +210,26 @@
     <MESSAGE value="Task: Computer Image" />
     <MESSAGE value="Bug: Link Invention of the Internet Page" />
     <MESSAGE value="Bug: Formatting Invention_of_Internet.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: Formatting Invention_of_Internet.html" />
+    <MESSAGE value="Bug: Add Link to Learn More" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug: Add Link to Learn More" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.749@0.23.1280.749" timestamp="1601311568887" />
-    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1601338681390">
+    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1601393540086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601338681390" />
+    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601393540086" />
     <state x="102" y="67" key="MergeDialog" timestamp="1601318117711">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="102" y="67" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1601318117711" />
-    <state x="189" y="105" key="Vcs.Push.Dialog.v2" timestamp="1601338693179">
+    <state x="189" y="105" key="Vcs.Push.Dialog.v2" timestamp="1601394264690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="189" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601338693179" />
+    <state x="189" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601394264690" />
     <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601333869662" />
     <state x="362" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601318141665">
       <screen x="0" y="23" width="1280" height="749" />
