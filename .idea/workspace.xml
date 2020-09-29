@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/teampage.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/teampage.html" afterDir="false" />
-    </list>
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Feature: test of img" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601418425414</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Feature: test of img">
+      <created>1601419045374</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601419045374</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +242,8 @@
     <MESSAGE value="Bug: Adjust Image Pixelation" />
     <MESSAGE value="Feature: Browser Wars" />
     <MESSAGE value="Feature: test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: test" />
+    <MESSAGE value="Feature: test of img" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: test of img" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
@@ -258,11 +263,15 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601401120972" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601418432398">
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601419052382">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="189" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601416415513" />
-    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601418432398" />
+    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601419052382" />
+    <state x="322" y="23" width="604" height="735" key="find.popup" timestamp="1601418950279">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="322" y="23" width="604" height="735" key="find.popup/0.23.1280.749@0.23.1280.749" timestamp="1601418950279" />
     <state x="362" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601318141665">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
