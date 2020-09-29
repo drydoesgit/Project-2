@@ -1,0 +1,67 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"473d9a2e-6104-4ab6-aa45-68af25e99fb1\" name=\"Default Changelist\" comment=\"Task: uploaded images to people page\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Webpages/people.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Webpages/people.html\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTML File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode>\n        <option name=\"argument\" value=\"--tags\" />\n        <option name=\"title\" value=\"All\" />\n      </GitPushTagMode>\n    </option>\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1i96t7A9RZgv17DCMCnZGPINLEG\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/image\" />\n      <recent name=\"$PROJECT_DIR$/Webpages\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"473d9a2e-6104-4ab6-aa45-68af25e99fb1\" name=\"Default Changelist\" comment=\"\" />\n      <created>1601307672568</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1601307672568</updated>\n      <workItem from=\"1601307673939\" duration=\"5811000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Feature: updated index.html file\">\n      <created>1601307748651</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1601307748651</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Feature: created people page\">\n      <created>1601307948380</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1601307948380</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Feature: created about page\">\n      <created>1601318195142</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1601318195142</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Feature: created about page\">\n      <created>1601318201552</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1601318201552</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Feature: created people page\">\n      <created>1601327923350</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1601327923350</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Task: uploaded images to people page\">\n      <created>1601331703963</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1601331703965</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Feature: updated index.html file\" />\n    <MESSAGE value=\"Feature: created about page\" />\n    <MESSAGE value=\"Feature: created people page\" />\n    <MESSAGE value=\"Task: uploaded images to people page\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Task: uploaded images to people page\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"347\" y=\"131\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog\" timestamp=\"1601311568887\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"749\" />\n    </state>\n    <state x=\"347\" y=\"131\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.749@0.23.1280.749\" timestamp=\"1601311568887\" />\n    <state x=\"102\" y=\"67\" key=\"MergeDialog\" timestamp=\"1601318117711\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"749\" />\n    </state>\n    <state x=\"102\" y=\"67\" key=\"MergeDialog/0.23.1280.749@0.23.1280.749\" timestamp=\"1601318117711\" />\n    <state x=\"177\" y=\"131\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1601331714180\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"749\" />\n    </state>\n    <state x=\"177\" y=\"131\" key=\"Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749\" timestamp=\"1601331714180\" />\n    <state x=\"362\" y=\"97\" key=\"git4idea.branch.GitSmartOperationDialog\" timestamp=\"1601318141665\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"749\" />\n    </state>\n    <state x=\"362\" y=\"97\" key=\"git4idea.branch.GitSmartOperationDialog/0.23.1280.749@0.23.1280.749\" timestamp=\"1601318141665\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 5c3c7bd0a679a2cb2a51eac35adff0ecab94d74c)
++++ .idea/workspace.xml	(date 1601334689116)
+@@ -19,9 +19,8 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: uploaded images to people page">
++    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="Task: updated about page content">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Webpages/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/people.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -124,7 +123,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1601331703965</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="Feature: Created dot.com bubble page">
++      <created>1601333658774</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1601333658774</updated>
++    </task>
++    <task id="LOCAL-00008" summary="Task: updated about page content">
++      <created>1601333861433</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1601333861433</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -147,7 +160,9 @@
+     <MESSAGE value="Feature: created about page" />
+     <MESSAGE value="Feature: created people page" />
+     <MESSAGE value="Task: uploaded images to people page" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Task: uploaded images to people page" />
++    <MESSAGE value="Feature: Created dot.com bubble page" />
++    <MESSAGE value="Task: updated about page content" />
++    <option name="LAST_COMMIT_MESSAGE" value="Task: updated about page content" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
+@@ -158,10 +173,10 @@
+       <screen x="0" y="23" width="1280" height="749" />
+     </state>
+     <state x="102" y="67" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1601318117711" />
+-    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601331714180">
++    <state x="177" y="131" key="Vcs.Push.Dialog.v2" timestamp="1601333869662">
+       <screen x="0" y="23" width="1280" height="749" />
+     </state>
+-    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601331714180" />
++    <state x="177" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1601333869662" />
+     <state x="362" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601318141665">
+       <screen x="0" y="23" width="1280" height="749" />
+     </state>
