@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="" />
+    <list default="true" id="473d9a2e-6104-4ab6-aa45-68af25e99fb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webpages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +89,8 @@
       <workItem from="1601337238527" duration="356000" />
       <workItem from="1601337683323" duration="1206000" />
       <workItem from="1601383336040" duration="1264000" />
+      <workItem from="1601391344349" duration="299000" />
+      <workItem from="1601391692738" duration="1578000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: updated index.html file">
       <created>1601307748651</created>
@@ -185,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601384486900</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Task: History of Internet Timeline Image">
+      <created>1601391438668</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601391438668</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,17 +228,18 @@
     <MESSAGE value="Bug: Link Invention of the Internet Page" />
     <MESSAGE value="Bug: Formatting Invention_of_Internet.html" />
     <MESSAGE value="Task: Invention_of_Internet.html Background Add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Invention_of_Internet.html Background Add" />
+    <MESSAGE value="Task: History of Internet Timeline Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: History of Internet Timeline Image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601311568887">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="347" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.749@0.23.1280.749" timestamp="1601311568887" />
-    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1601384484925">
+    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1601391436713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601384484925" />
+    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601391436713" />
     <state x="102" y="67" key="MergeDialog" timestamp="1601318117711">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
